@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  -🔭 Técnico integrado em informática <br>
- -🌱 Estudando: Programação Web, Banco de Dados e Programação Orientada a Objetos
+ <!-- -🌱 Estudando: Programação Web, Banco de Dados e Programação Orientada a Objetos -->
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elryangomes&show_icons=true&theme=codeSTACKr&text_bold=false)                                        
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elryangomes&hide_progress=false&theme=codeSTACKr)
